@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using product_store.Models;
-using product_store.Service;
+﻿using BLL.BussinesLogicLayer;
+using Domain.ModelLayer;
+using Microsoft.AspNetCore.Mvc;
 
 public class ProductController : Controller
 {

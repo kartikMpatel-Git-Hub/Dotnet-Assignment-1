@@ -1,4 +1,4 @@
-﻿@model product_store.Models.ProductModel
+﻿@model Domain.ModelLayer.ProductModel;
 
 @{
     ViewData["Title"] = "Edit";
@@ -40,7 +40,7 @@
                 <span asp-validation-for="Brand" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="p-3 bg-slate-800 text-white rounded-2 my-3" />
+                <input type="submit" value="Update" class="p-3 bg-slate-800 text-white rounded-2 my-3" />
             </div>
         </form>
     </div>

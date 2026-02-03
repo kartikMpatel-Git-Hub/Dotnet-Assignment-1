@@ -1,8 +1,7 @@
+using BLL.BussinesLogicLayer;
+using DAL.RepositoryLayer;
 using Microsoft.EntityFrameworkCore;
-using product_store.Data;
 using product_store.Middleware;
-using product_store.Repository;
-using product_store.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

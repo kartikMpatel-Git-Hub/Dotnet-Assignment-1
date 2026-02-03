@@ -1,4 +1,13 @@
 <Solution>
+  <Folder Name="/BLL/">
+    <Project Path="BussinesLogicLayer/BussinesLogicLayer.csproj" Id="f6e77d9d-ec05-46bb-93fc-fe76f07ec8d2" />
+  </Folder>
+  <Folder Name="/DAL/">
+    <Project Path="RepositoryLayer/RepositoryLayer.csproj" Id="76b0a5ea-bd9d-4537-b177-c6762426ad90" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="ModelLayer/ModelLayer.csproj" Id="986672b3-5bbe-401e-8615-3524d53cc207" />
+  </Folder>
   <Folder Name="/Web/">
     <Project Path="product-store/product-store.csproj" />
   </Folder>

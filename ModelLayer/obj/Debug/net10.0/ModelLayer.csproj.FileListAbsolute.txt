@@ -1,0 +1,12 @@
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\bin\Debug\net10.0\ModelLayer.deps.json
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\bin\Debug\net10.0\ModelLayer.dll
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\bin\Debug\net10.0\ModelLayer.pdb
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ModelLayer.AssemblyInfo.cs
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ModelLayer.sourcelink.json
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ModelLayer.dll
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\refint\ModelLayer.dll
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ModelLayer.pdb
+C:\Internship\Codes\DontNet\Two\product-store\ModelLayer\obj\Debug\net10.0\ref\ModelLayer.dll
