@@ -1,0 +1,16 @@
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.AssemblyInfo.cs
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.sourcelink.json
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\bin\Debug\net10.0\RepositoryLayer.deps.json
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\bin\Debug\net10.0\RepositoryLayer.dll
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\bin\Debug\net10.0\RepositoryLayer.pdb
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\bin\Debug\net10.0\ModelLayer.dll
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\bin\Debug\net10.0\ModelLayer.pdb
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\Reposito.A0A61804.Up2Date
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.dll
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\refint\RepositoryLayer.dll
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\RepositoryLayer.pdb
+C:\Internship\Codes\DontNet\Two\product-store\RepositoryLayer\obj\Debug\net10.0\ref\RepositoryLayer.dll
