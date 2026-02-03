@@ -1,0 +1,27 @@
+﻿@model product_store.Models.ProductModel;
+
+<div class="p-2 shadow">
+    <div>
+        <div class="p-2 font-bold border-b-2">
+            @Model.Name
+        </div>
+        <div class="p-2">
+            <div class="text-1xl">
+                ₹@Model.Price
+            </div>
+            <div class="bg-slate-800/80 p-2 rounded-2 my-1 text-white">
+                @Model.Category
+            </div>
+            <div class="bg-slate-500/50 p-2 rounded-2 my-1">
+                @Model.Brand
+            </div>
+            <div class="bg-slate-500/20 p-2 rounded-2 my-1">
+                @Model.Qty
+            </div>
+            <div class="py-3">
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="p-2 bg-slate-800 text-white mt-3 rounded-2">Edit</a>
+                <a asp-action="Delete" asp-route-id="@Model.Id" class="p-2 bg-slate-900 text-white mt-3 rounded-2">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>

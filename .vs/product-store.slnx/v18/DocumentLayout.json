@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\product\\productcardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\product\\productcardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\middleware\\loggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\middleware\\loggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\middleware\\loggermiddlewareextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\middleware\\loggermiddlewareextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\migrations\\20260203090638_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\migrations\\20260203090638_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|c:\\internship\\codes\\dontnet\\assignment-1\\product-store\\product-store\\product-store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{497D0EB9-63EE-1F6A-39EA-62A566105582}|product-store\\product-store.csproj|solutionrelative:product-store\\product-store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "product-store\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "product-store\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:09:01.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:09:27.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:09:35.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T11:00:56.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCardView.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\ProductCardView.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Product\\ProductCardView.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\ProductCardView.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Product\\ProductCardView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T11:08:43.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T13:08:20.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Program.cs",
+              "RelativeDocumentMoniker": "product-store\\Program.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Program.cs",
+              "RelativeToolTip": "product-store\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:01:40.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggerMiddleware.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Middleware\\LoggerMiddleware.cs",
+              "RelativeDocumentMoniker": "product-store\\Middleware\\LoggerMiddleware.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Middleware\\LoggerMiddleware.cs",
+              "RelativeToolTip": "product-store\\Middleware\\LoggerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:17:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T13:08:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "product-store\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Service\\IProductService.cs",
+              "RelativeToolTip": "product-store\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:07:48.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "product-store\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Service\\ProductService.cs",
+              "RelativeToolTip": "product-store\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:08:59.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "product-store\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Models\\ProductModel.cs",
+              "RelativeToolTip": "product-store\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:57:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "product-store\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:09:50.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:10:10.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "product-store\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "product-store\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T10:47:26.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoggerMiddlewareExtention.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Middleware\\LoggerMiddlewareExtention.cs",
+              "RelativeDocumentMoniker": "product-store\\Middleware\\LoggerMiddlewareExtention.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Middleware\\LoggerMiddlewareExtention.cs",
+              "RelativeToolTip": "product-store\\Middleware\\LoggerMiddlewareExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:26:38.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:10:01.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "product-store\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:09:48.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "product-store\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "product-store\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:10:04.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\appsettings.json",
+              "RelativeDocumentMoniker": "product-store\\appsettings.json",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\appsettings.json",
+              "RelativeToolTip": "product-store\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T08:57:45.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260203090638_Initial.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Migrations\\20260203090638_Initial.cs",
+              "RelativeDocumentMoniker": "product-store\\Migrations\\20260203090638_Initial.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Migrations\\20260203090638_Initial.cs",
+              "RelativeToolTip": "product-store\\Migrations\\20260203090638_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:06:38.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "product-store\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "product-store\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:58:39.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "product-store.csproj",
+              "DocumentMoniker": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\product-store.csproj",
+              "RelativeDocumentMoniker": "product-store\\product-store.csproj",
+              "ToolTip": "C:\\Internship\\Codes\\DontNet\\Assignment-1\\product-store\\product-store\\product-store.csproj",
+              "RelativeToolTip": "product-store\\product-store.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T08:57:05.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
