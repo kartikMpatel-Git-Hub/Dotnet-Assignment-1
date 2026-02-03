@@ -1,51 +1,52 @@
-﻿using Microsoft.EntityFrameworkCore;
-using product_store.Data;
-using product_store.Models;
-using System.Threading.Tasks;
+﻿using product_store.Models;
+using product_store.Repository;
 
 namespace product_store.Service
 {
     public class ProductService : IProductService
     {
-        private readonly ApplicationDbContext _context;
+        private readonly IProductRepository _repo;
 
-        public ProductService(ApplicationDbContext context)
+        public ProductService(IProductRepository repo)
         {
-            _context = context;
+            _repo = repo;
         }
-
         public async Task CreateProduct(ProductModel productModel)
         {
-            productModel.Id = Guid.NewGuid();
-            _context.Add(productModel);
-            await _context.SaveChangesAsync();
+            Validate(productModel);
+            await _repo.Add(productModel);
         }
 
         public async Task<List<ProductModel>> GetAllProducts()
         {
-            return await _context.Products.ToListAsync();
+            return await _repo.GetAll();
         }
 
         public async Task<ProductModel?> GetProduct(Guid? id)
         {
-            return await _context.Products.FirstOrDefaultAsync(p => p.Id == id);
+            return await _repo.GetById(id);
         }
 
         public async Task UpdateProduct(ProductModel productModel)
         {
-            _context.Update(productModel);
-            await _context.SaveChangesAsync();
+            Validate(productModel);
+            await _repo.Update(productModel);
         }
 
-        public bool ProductModelExists(Guid id)
+        public async Task DeleteProduct(Guid? id)
         {
-            return _context.Products.Any(e => e.Id == id);
+            await _repo.Delete(id);
         }
 
-        public async Task DeleteProduct(ProductModel productModel)
+        public async Task<int> GetTotalProduct()
         {
-            _context.Remove(productModel);
-            await _context.SaveChangesAsync();
+            return await _repo.GetTotalCount();
+        }
+
+        private void Validate(ProductModel product)
+        {
+            if (product.Price <= 0)
+                throw new Exception("Price must be positive");
         }
     }
 }
