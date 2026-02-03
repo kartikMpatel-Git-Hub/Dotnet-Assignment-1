@@ -13,19 +13,8 @@ public class ProductController : Controller
 
     public async Task<IActionResult> Index()
     {
+        ViewBag.Total = await _productService.GetTotalProduct();
         return View(await _productService.GetAllProducts());
-    }
-
-    public async Task<IActionResult> Details(Guid? id)
-    {
-        if (id == null)
-            return NotFound();
-
-        var product = await _productService.GetProduct(id);
-        if (product == null)
-            return NotFound();
-
-        return View(product);
     }
 
     public IActionResult Create()
@@ -41,7 +30,7 @@ public class ProductController : Controller
             return View(productModel);
 
         await _productService.CreateProduct(productModel);
-        return RedirectToAction(nameof(Index));
+        return RedirectToAction("Index");
     }
 
     public async Task<IActionResult> Edit(Guid? id)
@@ -67,7 +56,7 @@ public class ProductController : Controller
             return View(productModel);
 
         await _productService.UpdateProduct(productModel);
-        return RedirectToAction(nameof(Index));
+        return RedirectToAction("Index");
     }
 
     public async Task<IActionResult> Delete(Guid? id)
@@ -86,10 +75,7 @@ public class ProductController : Controller
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> DeleteConfirmed(Guid id)
     {
-        var product = await _productService.GetProduct(id);
-        if (product != null)
-            await _productService.DeleteProduct(product);
-
-        return RedirectToAction(nameof(Index));
+        await _productService.DeleteProduct(id);
+        return RedirectToAction("Index");
     }
 }

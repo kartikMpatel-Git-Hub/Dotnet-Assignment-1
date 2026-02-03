@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="product-store/product-store.csproj" />
+  <Folder Name="/Web/">
+    <Project Path="product-store/product-store.csproj" />
+  </Folder>
 </Solution>

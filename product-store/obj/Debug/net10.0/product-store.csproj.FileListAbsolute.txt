@@ -337,3 +337,4 @@ C:\Internship\Codes\DontNet\Assignment-1\product-store\product-store\bin\Debug\n
 C:\Internship\Codes\DontNet\Assignment-1\product-store\product-store\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Internship\Codes\DontNet\Assignment-1\product-store\product-store\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Internship\Codes\DontNet\Assignment-1\product-store\product-store\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Internship\Codes\DontNet\Assignment-1\product-store\product-store\obj\Debug\net10.0\product-store.sourcelink.json
